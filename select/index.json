@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ギリギリchop",
+  "base_artist": "B'z",
+  "createdAt": "2025-12-01T17:12:55.110359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ギリギリchop",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/01_ギリギリchop_B'z.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ギリギリchop",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/02_ギリギリchop_B'z.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ギリギリchop",
+      "artist": "B’z",
+      "has_synced": true,
+      "path": "select/03_ギリギリchop_B’z.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ギリギリchop",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/04_ギリギリchop_B'z.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ギリギリchop",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/05_ギリギリchop_B'z.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ギリギリchop",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/06_ギリギリchop_B'z.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ギリギリchop",
+      "artist": "B'z - Singles",
+      "has_synced": true,
+      "path": "select/07_ギリギリchop_B'z_-_Singles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ギリギリchop (Version 51)",
+      "artist": "B'z - Album",
+      "has_synced": true,
+      "path": "select/08_ギリギリchop_(Version_51)_B'z_-_Album.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ギリギリchop (Version 51)",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/09_ギリギリchop_(Version_51)_B'z.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギリギリchop",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_01_ギリギリchop_B'z.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ギリギリchop",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_02_ギリギリchop_B'z.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ギリギリchop",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_03_ギリギリchop_B'z.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ギリギリchop",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_04_ギリギリchop_B'z.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ギリギリ chop",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_05_ギリギリ_chop_B'z.txt"
+    }
+  ]
+}
